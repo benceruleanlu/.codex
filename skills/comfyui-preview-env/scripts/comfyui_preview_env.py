@@ -17,7 +17,7 @@ import urllib.request
 from pathlib import Path
 from typing import Any, Dict, Optional
 
-DEFAULT_BACKEND_REPO = 'https://github.com/comfyanonymous/ComfyUI.git'
+DEFAULT_BACKEND_REPO = 'https://github.com/Comfy-Org/ComfyUI.git'
 DEFAULT_BACKEND_REF = 'master'
 DEFAULT_HOST = '127.0.0.1'
 BACKEND_READY_PATH = '/api/users'

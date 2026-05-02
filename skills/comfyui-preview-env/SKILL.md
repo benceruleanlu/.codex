@@ -122,7 +122,7 @@ Use `frontend.url` for Chrome DevTools MCP and Playwright when previewing local 
 
 ## Notes
 
-- Default backend repo: `https://github.com/comfyanonymous/ComfyUI.git`
+- Default backend repo: `https://github.com/Comfy-Org/ComfyUI.git`
 - Default backend ref: `master`
 - `preview` defaults to `--frontend-install missing`, so it runs `pnpm install --frozen-lockfile` only when `node_modules` is absent. Use `--frontend-install always` when dependency freshness matters more than startup speed.
 - Prefer unique instance names per agent or task to avoid collisions.
