@@ -1,0 +1,4 @@
+interface:
+  display_name: "ComfyUI Preview Env"
+  short_description: "Launch isolated ComfyUI preview test environments"
+  default_prompt: "Use $comfyui-preview-env to start an isolated ComfyUI backend or preview URL for Playwright and Chrome DevTools MCP."
